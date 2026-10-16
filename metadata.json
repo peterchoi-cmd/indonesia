@@ -1,0 +1,7 @@
+{
+  "name": "indo-food-audit-navigator",
+  "description": "인도네시아 출장자를 위한 현지 레스토랑 점검 및 숙소 동선 관리 시스템 (지도 최적 경로, 점검 체크리스트, Supabase 연동)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
